@@ -6,4 +6,4 @@
        
        FR : Script de wipe avec une commande dans le chat + logs discord
        EN : Wipe player script with chat command + discors logs
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
